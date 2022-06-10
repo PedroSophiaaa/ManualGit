@@ -1,4 +1,4 @@
-# Manual sobre a utilização do GitHub
+# Manual GitHub - Utilização e noções básicas
 
 <head>
   <style>
@@ -19,10 +19,10 @@
  <dt> Manual desenvolvido pelos discentes da Ilum School of Science – Campinas/SP com o intuito de divulgar noções e práticas básicas de uso e aplicação da plataforma Git-Hub. Em um primeiro momento será dissertado sobre as possibilidades de uso da plataforma e posteriormente, como utilizar comandos básicos para a criação de repertórios e comunicação com a comunidade. </dt>
  <dt> Os discentes responsáveis pelo desenvolvimento do repertório são: </dt>
  <br> 
-<dt>•	João Pedro Aroucha de Brito; </dt>
-<dt>•	Lorraine Cristina Silva Casseano; </dt>
-<dt>•	Monyque Karoline de Paula Silva; </dt>
-<dt>•	Pedro Henrique Sophia. </dt>
+      <dt>•	João Pedro Aroucha de Brito; </dt>
+      <dt>•	Lorraine Cristina Silva Casseano; </dt>
+      <dt>•	Monyque Karoline de Paula Silva; </dt>
+      <dt>•	Pedro Henrique Sophia. </dt>
 
 <hr>
 <details>
