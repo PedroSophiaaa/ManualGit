@@ -69,6 +69,28 @@
 </details>
 
 <details>
-    <summary>Criação de um repositório;</summary>
-    <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+    <summary> Fork; </summary>
+    <p> <p align="justify"> Outro conceito de suma importância são os <i> forks </i>, responsáveis pela  cópia do repositório de outro autor. Essa ação permite com que você consiga alterar o quanto desejar o código copiado, sem alterar o repositório original - que foi copiado inicialmente. De modo a executar um <i> fork </i>,  deve-se seguir os passos:
+<ol>
+<li> Vá até o repositório que você deseja realizar a ação de cópia; </li>
+<li> Selecione o botão cinza <i> fork </i> no canto direito superior da tela; </li>
+<li> Selecionado o botão, irá ter a opção de atribuição de nome e descrição do <i> fork</i>, em caso de não atribuição o arquivo irá permanecer com as mesmas informações do arquivo original: </li> 
+<li> Pronto! Agora é só realizar as edições normalmente! Se desejado pode se utilizar do pull request para se comunicar com o autor do arquivo original e propor alterações no branch padrão </li>  
+ </ol>
+</p>
+</details>
+
+<details>
+    <summary> Pull Request; </summary>
+  <p> <p align="justify"> Ok! Sabemos como realizar <i> branches </i> e também <i> forks,</i> agora iremos falar de um processo complementar a esses, sendo muito utilizado no GitHub! O <i> pull request</i>, utilizado para realização de sugestões e colaborações nas alterações de um repositório, ou seja, as alterações são propostas em um <i>branch </i>. </p>
+ <p align="justify"> O processo de realização desse metódo é bem simples, sendo:
+  <ol>
+  <li> Vá até o repositório "forkado" que deseja inserir no <i> branch padrão </i>; </li>
+  <li> Encontre a aba <i> code </i>; </li>
+  <li> Vá em <i> Pull Requests </i> e em seguida, em <i> New Pull Request </i>; </li>
+  <li> Clique na opção <i> Create Ner Pull Request </i>; </li>
+  <li> Preencha os dados com as informações e apontamentos desejados; </li>
+  <li> Aguarde o retorno do desenvolvedor original acerca da sua solicitação. </li>
+  </ol>
+  </p>
 </details>
