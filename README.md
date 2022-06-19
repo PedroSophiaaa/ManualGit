@@ -1,3 +1,5 @@
+DRC: eu gostei muito da organização e do texto inicial. No entanto, a partir de um certo ponto o texto ficou menos amigável para iniciantes e deixou de fazer o papel de manual e virou mais uma lista itemizada de coisas.
+
 # Manual sobre a utilização do GitHub
 
 <h3> Desenvolvimento de um Manual para Inciantes - GitHub, introduzindo noções básicas da plataforma.</h3>
@@ -65,6 +67,9 @@
     <p>Em conjunto com o aplicativo GitBash, a plataforma GitHub permite que os arquivos de um repositório sejam "puxados" para o computador e "empurrados" de volta ao repositório no GitHub. Para clonar um repositório, deve-se:</p>
   <ol>
   <li>Abrir o aplicativo GitBash dentro de uma pasta criada com esse intuito;</li>
+  
+  DRC: essa parte eu acho que não deve ficar muito clara para um iniciante. Não está dizendo que é para colocar o link do repositório depois de git clone, nem como usar o git commit para registrar sua alteração com uma mensagem. Não está lendo muito como um manual, mas sim como uma série de bullets com informações esparsas. 
+  
   <li>Utilizar o comando git clone <link>;</li>
   <li>Uma pasta com o nome do repositório será criada;</li>
   <li>Caso algum documento seja alterado, a seguinte ordem de comandos deve ser dada para que o repositório no GitHub seja atualizado: [git add .], [git commit], [git push];</li>
@@ -76,6 +81,9 @@
 
 <details>
   <summary><h3><b>Branch - Criação e Exclusão;</b></h3></summary>
+  
+  DRC: nessa parte senti falta de como navegar branches usando o git bash.
+  
  <p> <p align="justify"> O <i>branch</i> é um ponteiro móvel que leva um commit. Em síntese, o que isso significa? Os <i> branches </i> – também denominados como “ramos”, desenvolvem funcionalidades isoladas uma das outras. Ao se criar um repositório, há a existência de um <i>branch “padrão” </i> denominado de <i>branch master </i>, pode-se criar outros <i>branches</i> que deverão ser mesclados ao <i>branch master </i>, após a conclusão do código. 
 <p align="justify"> Compreendida a funcionalidade de uma <i>branch</i>, descreve-se o passo a passo de como cria-la no GitHub: </p>
 <ol>
